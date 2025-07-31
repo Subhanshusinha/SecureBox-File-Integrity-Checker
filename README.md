@@ -6,7 +6,7 @@ SecureBox is a simple and powerful web application that allows users to upload a
 
 ## 📸 Screenshot Preview
 
-![SecureBox Screenshot](<img width="1640" height="748" alt="Screenshot 2025-07-31 024206" src="https://github.com/user-attachments/assets/3bb0a448-6a92-492b-88eb-0b7bfdb3fab1" />)
+![SecureBox Screenshot] <img width="1640" height="748" alt="Screenshot 2025-07-31 024206" src="https://github.com/user-attachments/assets/f2eb0702-2500-422b-a6c1-138a49610531" />
 
 ---
 
@@ -84,4 +84,4 @@ GitHub: [https://github.com/Subhanshusinha)
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License].
